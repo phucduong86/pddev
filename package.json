@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "license": "MIT",
-    "author": "Oliver Benns",
+    "author": "Phuc Duong",
     "dependencies": {
         "classnames": "^2.2.5",
         "gatsby": "^1.8.4",
