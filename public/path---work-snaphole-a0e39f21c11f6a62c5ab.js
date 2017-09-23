@@ -1,0 +1,2 @@
+webpackJsonp([86287120435224],{"./node_modules/json-loader/index.js!./.cache/json/work-snaphole.json":function(o,n){o.exports={pathContext:{}}}});
+//# sourceMappingURL=path---work-snaphole-a0e39f21c11f6a62c5ab.js.map
