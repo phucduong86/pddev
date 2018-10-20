@@ -6,7 +6,7 @@ const projects = [{
             website: 'https://snaphole.io',
         },
         slug: 'snaphole',
-        title: 'Snap-Hole',
+        title: 'Snap-Hole (Page no longer available)',
         cover: require('./snaphole.png'),
         theme: {
             background: '#3E00B2',
